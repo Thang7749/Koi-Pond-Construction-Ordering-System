@@ -1,7 +1,7 @@
 STT      NAME                WORK
-1  `  Nguyễn Quốc Thắng      
-2     Đoàn Đăng Khoa
-3     Lâm Tiến Đạt
-4     Lê Bảo Duy
-5     Lữ Vân Chuẩn
-6     Nguyễn Đăng Trình
+1  `  Nguyễn Quốc Thắng     fontend 
+2     Đoàn Đăng Khoa		backend
+3     Lâm Tiến Đạt			sql & backend
+4     Lê Bảo Duy			sql & backend
+5     Lữ Vân Chuẩn			sql & backend
+6     Nguyễn Đăng Trình		fontend
