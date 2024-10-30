@@ -1,11 +1,11 @@
-Terms
+(Terms)
 Repository (Repo)
 Branch
 Conflict
 Local
 Remote
 Fork
-Commands
+(Commands)
 git init
 git status
 git add {file name}
