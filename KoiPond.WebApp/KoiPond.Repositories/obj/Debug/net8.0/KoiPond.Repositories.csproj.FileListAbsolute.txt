@@ -1,0 +1,14 @@
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\bin\Debug\net8.0\KoiPond.Repositories.deps.json
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\bin\Debug\net8.0\KoiPond.Repositories.runtimeconfig.json
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\bin\Debug\net8.0\KoiPond.Repositories.dll
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\bin\Debug\net8.0\KoiPond.Repositories.pdb
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.csproj.AssemblyReference.cache
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.AssemblyInfoInputs.cache
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.AssemblyInfo.cs
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.csproj.CoreCompileInputs.cache
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.dll
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\refint\KoiPond.Repositories.dll
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.pdb
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.genruntimeconfig.cache
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\ref\KoiPond.Repositories.dll
