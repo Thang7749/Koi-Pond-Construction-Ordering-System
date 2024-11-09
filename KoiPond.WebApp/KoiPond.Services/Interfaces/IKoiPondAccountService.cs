@@ -9,6 +9,6 @@ namespace KoiPond.Services.Interfaces
 {
     public interface IKoiPondAccountService
     {
-        Task<List<AccountKoiPond>> AccountKoiPonds(); //ham lay du lieu
+        Task<List<TaiKhoanKhachHang>> TaiKhoanKhachHangs(); //ham lay du lieu
     }
 }

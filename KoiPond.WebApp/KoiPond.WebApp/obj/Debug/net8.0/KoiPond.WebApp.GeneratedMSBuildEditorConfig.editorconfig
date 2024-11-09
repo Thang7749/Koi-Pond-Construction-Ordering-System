@@ -26,26 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/AccountKoiPonds/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEtvaVBvbmRzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/AccountKoiPonds/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEtvaVBvbmRzXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/AccountKoiPonds/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEtvaVBvbmRzXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/AccountKoiPonds/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEtvaVBvbmRzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/AccountKoiPonds/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEtvaVBvbmRzXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -64,6 +44,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/TaiKhoanKhachHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpS2hvYW5LaGFjaEhhbmdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/TaiKhoanKhachHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpS2hvYW5LaGFjaEhhbmdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/TaiKhoanKhachHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpS2hvYW5LaGFjaEhhbmdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/TaiKhoanKhachHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpS2hvYW5LaGFjaEhhbmdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/TaiKhoanKhachHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpS2hvYW5LaGFjaEhhbmdzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/TESTVISUAL/WebXayHoCa/KoiPond.WebApp/KoiPond.WebApp/Views/_ViewImports.cshtml]

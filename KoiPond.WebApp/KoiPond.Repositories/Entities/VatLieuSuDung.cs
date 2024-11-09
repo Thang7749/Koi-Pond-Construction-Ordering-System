@@ -5,11 +5,11 @@ namespace KoiPond.Repositories.Entities;
 
 public partial class VatLieuSuDung
 {
-    public int SuDungId { get; set; }
+    public string SuDungId { get; set; } = null!;
 
-    public int? DuAnId { get; set; }
+    public string? DuAnId { get; set; }
 
-    public int? VatLieuId { get; set; }
+    public string? VatLieuId { get; set; }
 
     public decimal? SoLuong { get; set; }
 

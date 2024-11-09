@@ -12,3 +12,4 @@ C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\re
 C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.pdb
 C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.genruntimeconfig.cache
 C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\ref\KoiPond.Repositories.dll
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Repositories\obj\Debug\net8.0\KoiPond.Repositories.sourcelink.json

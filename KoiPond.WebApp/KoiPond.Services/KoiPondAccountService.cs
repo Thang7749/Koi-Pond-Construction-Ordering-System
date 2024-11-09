@@ -17,9 +17,9 @@ namespace KoiPond.Services
             _repository = repository;
         }
 
-        public Task<List<AccountKoiPond>> AccountKoiPonds()
+        public Task<List<TaiKhoanKhachHang>> TaiKhoanKhachHangs()
         {
-            return _repository.GetAllAccountKoiPond();
+            return _repository.GetAllTaiKhoanKhachHang();
         }
     }
 }
