@@ -258,3 +258,4 @@ C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.WebApp\bin\Debug\net8.0\runtimes
 C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.WebApp\obj\Debug\net8.0\KoiPond.WebApp.sourcelink.json

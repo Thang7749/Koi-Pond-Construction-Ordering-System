@@ -5,7 +5,7 @@ namespace KoiPond.Repositories.Entities;
 
 public partial class NhanVien
 {
-    public int NhanVienId { get; set; }
+    public string NhanVienId { get; set; } = null!;
 
     public string? HoTen { get; set; }
 

@@ -5,9 +5,9 @@ namespace KoiPond.Repositories.Entities;
 
 public partial class ThanhToan
 {
-    public int ThanhToanId { get; set; }
+    public string ThanhToanId { get; set; } = null!;
 
-    public int? DuAnId { get; set; }
+    public string? DuAnId { get; set; }
 
     public DateOnly? NgayThanhToan { get; set; }
 

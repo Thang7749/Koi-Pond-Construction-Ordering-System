@@ -5,11 +5,11 @@ namespace KoiPond.Repositories.Entities;
 
 public partial class NhanVienThamGium
 {
-    public int ThamGiaId { get; set; }
+    public string ThamGiaId { get; set; } = null!;
 
-    public int? DuAnId { get; set; }
+    public string? DuAnId { get; set; }
 
-    public int? NhanVienId { get; set; }
+    public string? NhanVienId { get; set; }
 
     public DateOnly? NgayBatDau { get; set; }
 

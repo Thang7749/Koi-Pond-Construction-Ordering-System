@@ -15,7 +15,7 @@ namespace KoiPond.WebApp
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             //DI
-            builder.Services.AddDbContext<KoiPond2024DbContext>();
+            builder.Services.AddDbContext<KoiPondDbContext>();
             //DI repository
             builder.Services.AddScoped<IKoiPondAccountRepository, KoiPondAccountRepository>();
             //DI service

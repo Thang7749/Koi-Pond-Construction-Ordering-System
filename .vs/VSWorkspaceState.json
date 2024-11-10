@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\KoiPond.WebApp",
+    "\\KoiPond.WebApp\\KoiPond.WebApp",
+    "\\KoiPond.WebApp\\KoiPond.WebApp\\Controllers"
   ],
+  "SelectedNode": "\\KoiPond.WebApp\\KoiPond.WebApp\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
