@@ -13,4 +13,3 @@ C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Services\obj\Debug\net8.0\KoiPon
 C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Services\obj\Debug\net8.0\refint\KoiPond.Services.dll
 C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Services\obj\Debug\net8.0\KoiPond.Services.pdb
 C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Services\obj\Debug\net8.0\ref\KoiPond.Services.dll
-C:\TESTVISUAL\WebXayHoCa\KoiPond.WebApp\KoiPond.Services\obj\Debug\net8.0\KoiPond.Services.sourcelink.json

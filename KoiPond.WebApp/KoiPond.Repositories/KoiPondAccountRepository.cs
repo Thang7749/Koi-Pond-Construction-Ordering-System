@@ -12,14 +12,14 @@ namespace KoiPond.Repositories
 {
     public class KoiPondAccountRepository : IKoiPondAccountRepository
     {
-        private readonly KoiPondDbContext _dbContext;
-        public KoiPondAccountRepository(KoiPondDbContext dbContext)
+        private readonly KoiPond2024DbContext _dbContext;
+        public KoiPondAccountRepository(KoiPond2024DbContext dbContext)
         {
             _dbContext = dbContext; //xu ly du lieu
         }
-        public async Task<List<TaiKhoanKhachHang>> GetAllTaiKhoanKhachHang()
+        public async Task<List<AccountKoiPond>> GetAllAccountKoiPond()
         {
-            return await _dbContext.TaiKhoanKhachHangs.ToListAsync();
+            return await _dbContext.AccountKoiPonds.ToListAsync();
         }
 
      

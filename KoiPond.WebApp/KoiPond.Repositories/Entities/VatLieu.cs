@@ -5,7 +5,7 @@ namespace KoiPond.Repositories.Entities;
 
 public partial class VatLieu
 {
-    public string VatLieuId { get; set; } = null!;
+    public int VatLieuId { get; set; }
 
     public string? TenVatLieu { get; set; }
 

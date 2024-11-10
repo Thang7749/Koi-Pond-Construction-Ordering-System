@@ -5,7 +5,7 @@ namespace KoiPond.Repositories.Entities;
 
 public partial class KhachHang
 {
-    public string KhachHangId { get; set; } = null!;
+    public int KhachHangId { get; set; }
 
     public string? HoTen { get; set; }
 
@@ -18,6 +18,4 @@ public partial class KhachHang
     public DateOnly? NgayDangKy { get; set; }
 
     public virtual ICollection<DuAnThiCong> DuAnThiCongs { get; set; } = new List<DuAnThiCong>();
-
-    public virtual ICollection<TaiKhoanKhachHang> TaiKhoanKhachHangs { get; set; } = new List<TaiKhoanKhachHang>();
 }

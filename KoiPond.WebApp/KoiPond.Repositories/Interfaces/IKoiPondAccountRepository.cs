@@ -9,6 +9,6 @@ namespace KoiPond.Repositories.Interfaces
 {
     public interface IKoiPondAccountRepository
     {
-        Task<List<TaiKhoanKhachHang>> GetAllTaiKhoanKhachHang();
+        Task<List<AccountKoiPond>> GetAllAccountKoiPond();
     }
 }
